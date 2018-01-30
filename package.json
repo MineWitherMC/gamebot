@@ -1,0 +1,21 @@
+{
+  "name": "rolesynthesizer",
+  "version": "1.0.0",
+  "description": "A bot for discord for creation of isolated channels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "channel",
+    "role"
+  ],
+  "author": "thedragonix",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "discord.js": "^11.1.0"
+  }
+}
